@@ -10,7 +10,7 @@ This project analyzes how trader behavior (profitability, trade volume, activity
 - `outputs/`: Visualizations
 
 ## Colab Link
-👉 [Open Notebook](YOUR_COLAB_LINK_HERE)
+👉 [Open Notebook]((https://colab.research.google.com/drive/1b8LR7S3KbOMEVAdRdwsKeJ71zsMtzxUD?usp=sharing)
 
 ## Author
 Akshay Jadiya
