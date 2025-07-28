@@ -1,16 +1,25 @@
 # Trader Behavior vs Market Sentiment – Data Science Assignment
 
-This project analyzes how trader behavior (profitability, trade volume, activity) aligns with market sentiment (Fear vs Greed) using two datasets.
+This project analyzes how trader behavior (profitability, volume, and frequency) changes based on Bitcoin market sentiment (Fear vs Greed). The goal was to identify trends that can guide smarter trading strategies.
 
-## Files Included
+## 📂 Project Structure
 
-- `notebook_1.ipynb`: Full code in Google Colab
-- `ds_report.pdf`: Summary of insights + graphs
-- `csv_files/`: Merged data
-- `outputs/`: Visualizations
+- `notebook_1.ipynb`: Full analysis using Python (Colab-ready)
+- `csv_files/`: Merged and cleaned dataset
+- `outputs/`: Visual charts for insights
+- `ds_report.pdf`: Summary of findings + graphs
 
-## Colab Link
-👉 [Open Notebook](https://colab.research.google.com/drive/1b8LR7S3KbOMEVAdRdwsKeJ71zsMtzxUD?usp=sharing)
+## 📊 Key Insights
 
-## Author
-Akshay Jadiya
+- Traders use larger volume during "Greed" but aren't always more profitable
+- Trade count spikes during "Fear" — likely panic-driven behavior
+- These patterns can help shape sentiment-aware risk strategies
+
+## 🔗 Colab Notebook
+
+👉 [Open in Colab](YOUR_COLAB_LINK_HERE)
+
+---
+
+**Author:** Akshay Jadiya  
+**Date:** July 2025
